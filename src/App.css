@@ -1,0 +1,17 @@
+.App {
+  align-items: center;
+  height: 100vh;
+  background: gray;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.button-wrapper{
+  margin: 5px;
+  padding: 20px;
+}
+.container{
+  align-items: center;
+  display: flex;
+
+}
